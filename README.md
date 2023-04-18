@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sajid-karim
-- 👀 I’m interested in software engineering, machine learning, crytography , blockchain and security.
+- 👀 I’m interested in software engineering, kernel/OS , Distributed Systems and security.
 - 🌱 I’m currently learning advance algorithms and data structures.
 - 💞️ I’m looking to collaborate on a software development project using nodeJs and ReactJs.
 - 📫 How to reach me @linkedIn: https://www.linkedin.com/in/sajidkarim01
