@@ -4,9 +4,8 @@
 ###
 
 <div align="center">
-###
 
-<img align="right" height="150" src="https://imgflip.com/i/7wtu64"  />
+<img align="right" height="150" src="https://imgflip.com/i/7wtu64?herp=1692904477756"  />
 
 
 <div align="left">
@@ -24,7 +23,6 @@
   <img width="12" />
 </div>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
