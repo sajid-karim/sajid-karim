@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @sajid-karim
-- 👀 I’m interested in software engineering, kernel/OS , Distributed Systems and security.
-- 🌱 I’m currently learning advance algorithms and data structures.
-- 💞️ I’m looking to collaborate on a software development project using nodeJs and ReactJs.
-- 📫 How to reach me @linkedIn: https://www.linkedin.com/in/sajidkarim01
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is @sajid-karim and 👀 I’m interested in software engineering, kernel/OS , Distributed Systems and security. </h2>
 
 ###
 
