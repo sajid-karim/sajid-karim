@@ -1,12 +1,10 @@
 <h2 align="left">Hi 👋! My name is @sajid-karim </h2> 
 <h5> 👀 I’m interested in software engineering, kernel/OS, Computer Architecture, RISCV, and security. </h5>
 <h5> Looking to collaborate on projects related to RISCV and Computer Architecture </h5>
-###
 
 <div align="center">
 
-<img align="right" height="150" src="https://imgflip.com/i/7wtu64?herp=1692904477756"  />
-<a href="https://imgflip.com/i/7wtu64"><img src="https://i.imgflip.com/7wtu64.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<a href="https://imgflip.com/i/7wtu64"><img  align="right" height="150"  src="https://i.imgflip.com/7wtu64.jpg" title="made at imgflip.com"/></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
